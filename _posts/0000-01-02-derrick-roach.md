@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to the next slide!"
+title: "Insert witty caption here!"
 
 ---
 
